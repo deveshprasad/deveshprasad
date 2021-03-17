@@ -17,3 +17,11 @@ Backend
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshprasad&repo=portfolio&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshprasad&repo=deveshprasad.github.io&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
 
+<div align="left">
+<a href="https://github.com/deveshprasad" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/deveshprasad/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
