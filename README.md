@@ -56,7 +56,7 @@
 - 🕵🏻 <samp>Javascript Games - Various games such as Color Picker, Todolist, & Dice games.<br>
 - ☄️ <samp>Tableau Profile - Showing Data Visualisation Skills.<br>
 </div>
-<div align="center" style="margin:20px">
+<div align="center" style="margin-top:20px">
   <br>
   <img align="left" src="https://media.giphy.com/media/JsJX1hZDov9V2QZyyG/giphy.gif" width="40%"/>
 
