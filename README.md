@@ -1,5 +1,38 @@
 
 <h1 >Hi 👋, I'm Devesh Prasad</h1>
+<a href="https://www.linkedin.com/in/devesh-prasad/">
+  <img align="left" alt="Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/deveshprasad">
+  <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="mailto:deveshprasad577@yahoo.com">
+  <img align="left" alt="Yahoo" width="100px" src="https://img.shields.io/badge/Yahoo-720E9E?style=for-the-badge&logo=Yahoo&logoColor=white" />
+</a>
+<a href="mailto:deveshprasad99911@gmail.com">
+  <img align="left" alt="gmail" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+
+
+## <p align="center"><h4 align="center"><samp> A Developer, An Open Source Contributor, Data Scientist ☁  & A Programmer , Designer  </samp></h4></p>
+
+<div>
+
+<img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="60%"/>
+  
+
+- 👷 <samp>Currently pursuing BSc(Hons) Statistics + Computer Science(2019-2022) from Delhi University, India.
+- 🔭 <samp>My main focus is on developing, designing, analysing and visualising.
+- ✍🏻 <samp>I have done 3 Internships till now, two of them were Web Development and one in Wordpress Development.
+- 🥇 <samp>Internships were through a platform Internshala. 
+- 💼 <samp>I’m looking for **Internship** Opportunities/roles.
+- 💬 <samp>Ask me about Web Development, Data Analytics and visualization.
+- 🤔 <samp>I’m proficient in tools like R tool, Tableau and Excel.
+- ⚡ <samp>Fun fact: I love Audiobooks and Podcasts.
+</div>
+
+##
+
 <div>
 <a href="https://github.com/deveshprasad" target="_blank">
 <img src=https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif   alt=profile  />
