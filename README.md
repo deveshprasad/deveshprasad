@@ -56,7 +56,8 @@
 - 🕵🏻 <samp>Javascript Games - Various games such as Color Picker, Todolist, & Dice games.<br>
 - ☄️ <samp>Tableau Profile - Showing Data Visualisation Skills.<br>
 </div>
-<div style="margin:20px>
+<div align="center" style="margin:20px">
+  <br>
   <img align="left" src="https://media.giphy.com/media/JsJX1hZDov9V2QZyyG/giphy.gif" width="40%"/>
 
 [![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshprasad&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
