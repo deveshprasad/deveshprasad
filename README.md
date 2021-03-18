@@ -10,7 +10,10 @@
   <img align="left" alt="Yahoo" width="70px" src="https://img.shields.io/badge/Yahoo-720E9E?style=for-the-badge&logo=YahooIn&logoColor=white" />
 </a>
 <a href="mailto:deveshprasad99911@gmail.com">
-  <img align="left" alt="gmail" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  <img align="left" alt="gmail" width="80px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://public.tableau.com/profile/devesh5578#!/">
+  <img align="left" alt="gmail" width="100px" src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=Tableau&logoColor=white" />
 </a>
 
 
@@ -43,6 +46,16 @@
 </div>
 
 ##
+
+##
+<div>
+<img align="right" src="https://user-images.githubusercontent.com/63739986/110834291-62a2c480-82c3-11eb-91bd-076dcbc044c7.gif" width="50%"/>
+<h4><b><samp>Projects:</samp></b></h4>
+- 👷 <samp>Social - A Full Stack Web Application where user can create account and post images and comments.<br>
+- 👨🏾‍💻 <samp>Portfolio - Portfolio and resume website showing designing and creative skills<br>
+- 🕵🏻 <samp>Javascript Games - Various games such as Color Picker, Todolist, & Dice games.<br>
+- ☄️ <samp>Tableau Profile - Showing Data Visualisation Skills.<br>
+</div>
 
 <div>
 </div>
@@ -103,6 +116,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/deveshprasad/count.svg" />
+</p>
 
 
 
