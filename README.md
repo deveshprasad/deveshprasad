@@ -58,7 +58,7 @@
 </div>
 <div>
   <img align="left" src="https://media.giphy.com/media/JsJX1hZDov9V2QZyyG/giphy.gif" width="40%"/>
-
+<br><br>
 [![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshprasad&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshprasad&layout=compact&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
 
