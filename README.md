@@ -1,9 +1,5 @@
 
 <h1 >Hi 👋, I'm Devesh Prasad</h1>
-![110807160-c2d83d00-82a8-11eb-8453-52767b463f9d](https://user-images.githubusercontent.com/63739986/111656651-bb78dc80-8830-11eb-806f-7b60f1bd258a.gif)
-![1](https://user-images.githubusercontent.com/63739986/111656706-c7649e80-8830-11eb-8c04-348e543859ee.png)
-
-
 <h3 >A Passionate Full Stack Developer and Data Scientist from India.I'm a second-year student pursuing a Bachelor's degree in the field of Statistics from Delhi University. I have done 3 Internships in the field of Web Development and WordPress Development and you can see all my projects in the Resume link given below. 
   <br> Thank You.</h3>
 
