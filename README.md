@@ -45,9 +45,6 @@
 ##
 
 <div>
-<a href="https://github.com/deveshprasad" target="_blank">
-<img src=https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif alt=profile />
-</a>
 </div>
 
 - 👨‍💻 All of my projects are available at [https://github.com/deveshprasad?tab=repositorieshttps://github.com/deveshprasad?tab=repositories](https://github.com/deveshprasad?tab=repositories)
