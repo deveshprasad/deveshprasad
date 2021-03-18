@@ -32,14 +32,19 @@
 </div>
 
 ##
+<div align="right">
+  <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="50%"/>
+<h4><b><samp>Experiences:</samp></b></h4>
+- 👷 <samp>Web Design Intern at Eric Frank (Dec 2020- Jan 2021)(45 days) - Internshala<br>
+- 👨🏾‍💻 <samp>Web Design Intern at Thingroupy (Feb 2020- Present) - Internshala<br>
+- 🕵🏻 <samp>Wordpress Development Intern(Jan 2020 - Present)<br>
+- ☄️ <samp>Volunteer at Safecity a Platform against Harassment -Internshala<br>
+- ☁ <samp>Volunteer at Atypical Advantage platform for women with disabilities -Internshala<br>
+</div>
+
+##
 
 <div>
-<a href="https://github.com/deveshprasad" target="_blank">
-<img src=https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif   alt=profile  />
-<h3 >A Passionate Full Stack Developer and Data Scientist from India.I'm a second-year student pursuing a Bachelor's degree in the field of Statistics from Delhi University. I have done 3 Internships in the field of Web Development and WordPress Development and you can see all my projects in the Resume link given below. 
-  <br> Thank You.</h3>
-
-</a>
 <a href="https://github.com/deveshprasad" target="_blank">
 <img src=https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif alt=profile />
 </a>
