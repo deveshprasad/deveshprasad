@@ -15,6 +15,9 @@
 <a href="https://public.tableau.com/profile/devesh5578#!/">
   <img align="left" alt="gmail" width="100px" src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=Tableau&logoColor=white" />
 </a>
+<a href="https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing">
+  <img align="left" alt="gmail" width="70px" src="https://img.shields.io/badge/resume-fff?style=for-the-badge&logo=resume&logoColor=auto" />
+</a>
 
 
 ## <p align="center"><h4 align="center"><samp> A Developer, An Open Source Contributor, Data Scientist ☁  & A Programmer , Designer  </samp></h4></p>
