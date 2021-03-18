@@ -57,7 +57,19 @@
 - ☄️ <samp>Tableau Profile - Showing Data Visualisation Skills.<br>
 </div>
 <div>
-<img align="left" src="https://user-images.githubusercontent.com/63739986/111690622-7023f580-8853-11eb-817c-680f4e25d83d.png" width="60%"/>
+  <div align="left" width="60%"><h3>Github Stats</h3>
+
+[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshprasad&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshprasad&layout=compact&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshprasad&repo=social&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshprasad&repo=portfolio&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshprasad&repo=deveshprasad.github.io&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/deveshprasad/count.svg" />
+</p>
+</div> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <h4>Languages :</h4>
@@ -100,17 +112,5 @@
 
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/deveshprasad/count.svg" />
-</p>
 
 
-
-
-[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshprasad&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshprasad&layout=compact&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshprasad&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshprasad&repo=social&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshprasad&repo=portfolio&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshprasad&repo=deveshprasad.github.io&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
