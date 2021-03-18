@@ -7,7 +7,7 @@
   <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="mailto:deveshprasad577@yahoo.com">
-  <img align="left" alt="Yahoo" width="100px" src="https://img.shields.io/badge/Yahoo-720E9E?style=for-the-badge&logo=Yahoo&logoColor=white" />
+  <img align="left" alt="Yahoo" width="70px" src="https://img.shields.io/badge/Yahoo-720E9E?style=for-the-badge&logo=YahooIn&logoColor=white" />
 </a>
 <a href="mailto:deveshprasad99911@gmail.com">
   <img align="left" alt="gmail" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
@@ -18,7 +18,7 @@
 
 <div>
 
-<img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="60%"/>
+<img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="55%"/>
   
 
 - 👷 <samp>Currently pursuing BSc(Hons) Statistics + Computer Science(2019-2022) from Delhi University, India.
