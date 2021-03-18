@@ -16,15 +16,15 @@ Backend
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshprasad&repo=portfolio&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshprasad&repo=deveshprasad.github.io&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Devesh Prasad</h1>
-<h3 align="center">A Passionate Full Stack Developer and Data Scientist from India.I have done 3 Internships in the field of Web Development and WordPress Development and you can see all my projects in the Resume link given below. Portfolio Link: https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing Thank You.I'm a second-year student pursuing a Bachelor's degree in the field of Statistics from Delhi University.</h3>
+<h3 align="center">A Passionate Full Stack Developer and Data Scientist from India.I have done 3 Internships in the field of Web Development and WordPress Development and you can see all my projects in the Resume link given below. I'm a second-year student pursuing a Bachelor's degree in the field of Statistics from Delhi University. Portfolio Link: https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing<br> Thank You.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/deveshprasad?tab=repositorieshttps://github.com/deveshprasad?tab=repositories](https://github.com/deveshprasad?tab=repositories)
 
-- 📝 I regularly write articles on [https://deveshprasad.github.io/deveshprasad/](https://deveshprasad.github.io/deveshprasad/)
+- 📝 I regularly write articles on  📝[https://deveshprasad.github.io/deveshprasad/](https://deveshprasad.github.io/deveshprasad/)
 
-- 📫 How to reach me **deveshprasad577@yahoo.com** **deveshprasad99911@gmail.com** **ddddevesh2001@gmail.com**
+- 📫 How to reach me  📧 **deveshprasad577@yahoo.com**  📧 **deveshprasad99911@gmail.com**  📧 **ddddevesh2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing](https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing)
+- 📄 Know about my experiences  📜   [https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing](https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
