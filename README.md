@@ -94,19 +94,11 @@
   <h4>Machine Learning  :</h4>
   <a href="https://pytorch.org/" target="_blank"> <img  style="margin: 5px;"src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a><a href="https://www.tensorflow.org" target="_blank"> <img style="margin: 5px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a>
 
- <h4>Softwares : </h4>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="margin: 5px;" alt="figma" width="50" height="50"/> </a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="margin: 5px;" width="50" height="50"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" style="margin: 5px;" width="50" height="50"/> </a> </p>
+  </p>
  
 </div>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/deveshprasad?tab=repositorieshttps://github.com/deveshprasad?tab=repositories](https://github.com/deveshprasad?tab=repositories)
-
-- 📫 How to reach me  📧 **deveshprasad577@yahoo.com**  📧 **deveshprasad99911@gmail.com**  📧 **ddddevesh2001@gmail.com**
-
-- 📄 Know about my experiences  📜   [https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing](https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing)
-</div>
 
 <p align="center"> 
   Visitor count<br>
