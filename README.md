@@ -1,4 +1,4 @@
-<div>
+<div><style>img{margin: 10px}</style>
 <h1 >Hi 👋, I'm Devesh Prasad</h1>
 <h3 >A Passionate Full Stack Developer and Data Scientist from India.I'm a second-year student pursuing a Bachelor's degree in the field of Statistics from Delhi University. I have done 3 Internships in the field of Web Development and WordPress Development and you can see all my projects in the Resume link given below. 
   <br> Thank You.</h3>
