@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Devesh Prasad</h1>
-<h3 align="center">A Passionate Full Stack Developer and Data Scientist from India.I have done 3 Internships in the field of Web Development and WordPress Development and you can see all my projects in the Resume link given below. I'm a second-year student pursuing a Bachelor's degree in the field of Statistics from Delhi University.
-  <br> Portfolio Link: https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing<br> Thank You.</h3>
+<div align="left" width="50%">
+<h1 >Hi 👋, I'm Devesh Prasad</h1>
+<h4 >A Passionate Full Stack Developer and Data Scientist from India.I have done 3 Internships in the field of Web Development and WordPress Development and you can see all my projects in the Resume link given below. I'm a second-year student pursuing a Bachelor's degree in the field of Statistics from Delhi University.
+  <br> Portfolio Link: https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing<br> Thank You.</h4>
 
 - 👨‍💻 All of my projects are available at [https://github.com/deveshprasad?tab=repositorieshttps://github.com/deveshprasad?tab=repositories](https://github.com/deveshprasad?tab=repositories)
 
 - 📫 How to reach me  📧 **deveshprasad577@yahoo.com**  📧 **deveshprasad99911@gmail.com**  📧 **ddddevesh2001@gmail.com**
 
 - 📄 Know about my experiences  📜   [https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing](https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing)
-
+</div>
+<div align="right" width="50%"></div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
@@ -45,24 +47,7 @@
  <br><br> 
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a> </p>
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
  
-  
 <div align="left">
 <a href="https://github.com/deveshprasad" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
