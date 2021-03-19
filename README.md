@@ -47,7 +47,7 @@
 - ☄️ <samp>Volunteer at Safecity a Platform against Harassment -Internshala<br>
 - ☁ <samp>Volunteer at Atypical Advantage platform for women with disabilities -Internshala<br>
 </div>
-
+<br><br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="30%" align="right"/>
 
