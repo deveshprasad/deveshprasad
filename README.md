@@ -1,6 +1,6 @@
 
 <h1 >Hi 👋, I'm Devesh Prasad</h1>
-<a href="https://www.linkedin.com/in/devesh-prasad/">
+<a href="https://www.linkedin.com/in/deveshprasad/">
   <img align="left" alt="Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/deveshprasad">
