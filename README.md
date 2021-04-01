@@ -42,14 +42,16 @@
   <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="50%"/>
 <h4><b><samp>Experiences:</samp></b></h4>
 - 👷 <samp>Web Design Intern at Eric Frank (Dec 2020- Jan 2021)(45 days) - Internshala<br>
-- 👨🏾‍💻 <samp>Web Design Intern at Thingroupy (Feb 2020- Present) - Internshala<br>
-- 🕵🏻 <samp>Wordpress Development Intern(Jan 2020 - Present)<br>
+- 👨🏾‍💻 <samp>Web Development Intern at Thingroupy (Feb 2021- March2021)(60 days) - Internshala<br>
+- 🕵🏻 <samp>Wordpress Development Intern at StartupHill(Jan 2020 - Present)<br>
 - ☄️ <samp>Volunteer at Safecity a Platform against Harassment -Internshala<br>
 - ☁ <samp>Volunteer at Atypical Advantage platform for women with disabilities -Internshala<br>
+- ☄️ <samp>Volunteer at Project Unlearn a Platform for Gender Rights -Internshala<br>
+- ☁ <samp>Volunteer at TYCIA  -Internshala<br>
 </div>
 <br><br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="30%" align="right"/>
+<img alt="Night Coding" src="https://i.imgur.com/rTZkf4K.gif" width="30%" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
