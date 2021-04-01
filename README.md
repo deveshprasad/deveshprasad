@@ -51,7 +51,7 @@
 </div>
 <br><br>
 
-<img alt="Night Coding" src="https://i.imgur.com/rTZkf4K.gif" width="30%" align="right"/>
+<img alt="Night Coding" src="https://i.imgur.com/rTZkf4K.gif" width="40%" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
