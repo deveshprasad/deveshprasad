@@ -49,7 +49,7 @@
 - ☄️ <samp>Volunteer at Project Unlearn a Platform for Gender Rights -Internshala<br>
 - ☁ <samp>Volunteer at TYCIA 1000&You for Tribal Education -Internshala<br>
 </div>
-<br><br>
+<br>
 
 <img alt="Night Coding" src="https://i.imgur.com/rTZkf4K.gif" width="40%" align="right"/>
 
@@ -76,7 +76,7 @@
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50" style="margin:0 15px"/> </a> 
 </p>
 <div>
-  <br><br>
+  <br>
 <img align="right" src="https://user-images.githubusercontent.com/63739986/110834291-62a2c480-82c3-11eb-91bd-076dcbc044c7.gif" width="50%"/>
 <h3><b><samp>Projects:</samp></b></h3>
 - 👷 <samp>Social - A Full Stack Web Application where user can create account and post images and comments.<br>
