@@ -78,7 +78,7 @@
 <div>
   <br>
 <img align="right" src="https://user-images.githubusercontent.com/63739986/110834291-62a2c480-82c3-11eb-91bd-076dcbc044c7.gif" width="50%"/>
-<h3><b><samp>Projects:</samp></b></h3>
+<b><samp><h3>Projects:</h3></samp></b>
 - 👷 <samp>Social - A Full Stack Web Application where user can create account and post images and comments.<br>
 - 👨🏾‍💻 <samp>Portfolio - Portfolio and resume website showing designing and creative skills<br>
 - 🕵🏻 <samp>Javascript Games - Various games such as Color Picker, Todolist, & Dice games.<br>
@@ -91,8 +91,8 @@
 [![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshprasad&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshprasad&layout=compact&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
 
-<p align="center"> 
- Visitor count<br>
+<p align="center"><br> 
+ Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/deveshprasad/count.svg" />
 </p>
  
