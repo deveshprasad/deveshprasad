@@ -39,7 +39,7 @@
 
 <div align="right">
   <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="50%"/>
-## <h3><b><samp>Experiences:</samp></b></h3>
+<h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <samp>Web Design Intern at Eric Frank (Dec 2020- Jan 2021)(45 days) - Internshala<br>
 - 👨🏾‍💻 <samp>Web Development Intern at Thingroupy (Feb 2021- March2021)(60 days) - Internshala<br>
 - 🕵🏻 <samp>Wordpress Development Intern at StartupHill(Jan 2020 - Present)<br>
