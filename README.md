@@ -77,11 +77,11 @@
 <div>
   <br>
 <img align="left" src="https://user-images.githubusercontent.com/63739986/110834291-62a2c480-82c3-11eb-91bd-076dcbc044c7.gif" width="50%"/>
-<samp><h3>Projects:</h3></samp></b>
-- 👷 <samp>Social - A Full Stack Web Application where user can create account and post images and comments.<br>
-- 👨🏾‍💻 <samp>Portfolio - Portfolio and resume website showing designing and creative skills<br>
-- 🕵🏻 <samp>Javascript Games - Various games such as Color Picker, Todolist, & Dice games.<br>
-- ☄️ <samp>Tableau Profile - Showing Data Visualisation Skills.<br>
+<b><samp><h3>Projects:</h3></samp></b>
+- 👷 <samp>Social - A Full Stack Web Application where user can create account and post images and comments.</samp><br>
+- 👨🏾‍💻 <samp>Portfolio - Portfolio and resume website showing designing and creative skills.</samp><br>
+- 🕵🏻 <samp>Javascript Games - Various games such as Color Picker, Todolist, & Dice games.</samp><br>
+- ☄️ <samp>Tableau Profile - Showing Data Visualisation Skills.</samp><br>
 </div>
 <div align="center" style="margin-top:20px">
   <br>
