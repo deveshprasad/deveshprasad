@@ -25,8 +25,7 @@
 <div>
 
 <img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="55%"/>
-  
-<b>
+
 - 👷 <samp>Currently pursuing BSc(Hons) Statistics + Computer Science(2019-2022) from Delhi University, India.
 - 🔭 <samp>My main focus is on developing, designing, analysing and visualising.
 - ✍🏻 <samp>I have done 3 Internships till now, two of them were Web Development and one in Wordpress Development.
@@ -35,13 +34,12 @@
 - 💬 <samp>Ask me about Web Development, Data Analytics and visualization.
 - 🤔 <samp>I’m proficient in tools like R tool, Tableau and Excel.
 - ⚡ <samp>Fun fact: I love Audiobooks and Podcasts.
-  </b>
+
 </div>
 
-##
 <div align="right">
   <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="50%"/>
-<h3><b><samp>Experiences:</samp></b></h3>
+## <h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <samp>Web Design Intern at Eric Frank (Dec 2020- Jan 2021)(45 days) - Internshala<br>
 - 👨🏾‍💻 <samp>Web Development Intern at Thingroupy (Feb 2021- March2021)(60 days) - Internshala<br>
 - 🕵🏻 <samp>Wordpress Development Intern at StartupHill(Jan 2020 - Present)<br>
