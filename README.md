@@ -77,11 +77,19 @@
 <div>
   <br>
 <img align="left" src="https://user-images.githubusercontent.com/63739986/110834291-62a2c480-82c3-11eb-91bd-076dcbc044c7.gif" width="50%"/>
-<b><samp><h3>Projects:</h3></samp></b>
+- 👷 <samp>Web Design Intern at Eric Frank (Dec 2020- Jan 2021)(45 days) - Internshala<br>
+- 👨🏾‍💻 <samp>Web Development Intern at Thingroupy (Feb 2021- March2021)(60 days) - Internshala<br>
+- 🕵🏻 <samp>Wordpress Development Intern at StartupHill(Jan 2020 - Present)<br>
+- ☄️ <samp>Volunteer at Safecity a Platform against Harassment -Internshala<br>
+- ☁ <samp>Volunteer at Atypical Advantage platform for women with disabilities -Internshala<br>
+- ☄️ <samp>Volunteer at Project Unlearn a Platform for Gender Rights -Internshala<br>
+- ☁ <samp>Volunteer at TYCIA 1000&You for Tribal Education -Internshala<br>
+
+<!-- <b><samp><h3>Projects:</h3></samp></b>
 - 👷 <samp>Social - A Full Stack Web Application where user can create account and post images and comments.</samp><br>
 - 👨🏾‍💻 <samp>Portfolio - Portfolio and resume website showing designing and creative skills.</samp><br>
 - 🕵🏻 <samp>Javascript Games - Various games such as Color Picker, Todolist, & Dice games.</samp><br>
-- ☄️ <samp>Tableau Profile - Showing Data Visualisation Skills.</samp><br>
+- ☄️ <samp>Tableau Profile - Showing Data Visualisation Skills.</samp><br> -->
 </div>
 <div align="center" style="margin-top:20px">
   <br>
