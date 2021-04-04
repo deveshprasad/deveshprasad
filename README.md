@@ -20,7 +20,7 @@
 </a>
 
 
-## <p align="center"><h4 align="center"><samp> A Developer, An Open Source Contributor, Data Scientist ☁  & A Programmer , Designer  </samp></h4></p>
+## <p align="center"><h3 align="center"><samp> A Developer, An Open Source Contributor, Data Scientist ☁  & A Programmer , Designer  </samp></h3></p>
 
 <div>
 
@@ -40,7 +40,7 @@
 ##
 <div align="right">
   <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="50%"/>
-<h4><b><samp>Experiences:</samp></b></h4>
+<h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <samp>Web Design Intern at Eric Frank (Dec 2020- Jan 2021)(45 days) - Internshala<br>
 - 👨🏾‍💻 <samp>Web Development Intern at Thingroupy (Feb 2021- March2021)(60 days) - Internshala<br>
 - 🕵🏻 <samp>Wordpress Development Intern at StartupHill(Jan 2020 - Present)<br>
@@ -53,7 +53,7 @@
 
 <img alt="Night Coding" src="https://i.imgur.com/rTZkf4K.gif" width="40%" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+<h3>### 🛠 &nbsp;Tech Stack<h3>
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=appveyor&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
@@ -78,7 +78,7 @@
 <div>
   <br><br>
 <img align="right" src="https://user-images.githubusercontent.com/63739986/110834291-62a2c480-82c3-11eb-91bd-076dcbc044c7.gif" width="50%"/>
-<h4><b><samp>Projects:</samp></b></h4>
+<h3><b><samp>Projects:</samp></b></h3>
 - 👷 <samp>Social - A Full Stack Web Application where user can create account and post images and comments.<br>
 - 👨🏾‍💻 <samp>Portfolio - Portfolio and resume website showing designing and creative skills<br>
 - 🕵🏻 <samp>Javascript Games - Various games such as Color Picker, Todolist, & Dice games.<br>
@@ -92,7 +92,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshprasad&layout=compact&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
 
 <p align="center"> 
-  Visitor count<br>
+ <h3>Visitor count<h3><br>
   <img src="https://profile-counter.glitch.me/deveshprasad/count.svg" />
 </p>
  
