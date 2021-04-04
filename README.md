@@ -26,7 +26,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="55%"/>
   
-
+<b>
 - 👷 <samp>Currently pursuing BSc(Hons) Statistics + Computer Science(2019-2022) from Delhi University, India.
 - 🔭 <samp>My main focus is on developing, designing, analysing and visualising.
 - ✍🏻 <samp>I have done 3 Internships till now, two of them were Web Development and one in Wordpress Development.
@@ -35,6 +35,7 @@
 - 💬 <samp>Ask me about Web Development, Data Analytics and visualization.
 - 🤔 <samp>I’m proficient in tools like R tool, Tableau and Excel.
 - ⚡ <samp>Fun fact: I love Audiobooks and Podcasts.
+  </b>
 </div>
 
 ##
