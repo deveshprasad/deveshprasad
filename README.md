@@ -31,7 +31,7 @@
 - 🔭 <samp>My main focus is on developing, designing, analysing and visualising.
 - ✍🏻 <samp>I have done 3 Internships till now, two of them were Web Development and one in Wordpress Development.
 - 🥇 <samp>Internships were through a platform Internshala. 
-- 💼 <samp>I’m looking for **Internship** Opportunities/roles.
+- 💼 <samp>I’m Internshala Student Partner 22.
 - 💬 <samp>Ask me about Web Development, Data Analytics and visualization.
 - 🤔 <samp>I’m proficient in tools like R tool, Tableau and Excel.
 - ⚡ <samp>Fun fact: I love Audiobooks and Podcasts.
@@ -47,7 +47,7 @@
 - ☄️ <samp>Volunteer at Safecity a Platform against Harassment -Internshala<br>
 - ☁ <samp>Volunteer at Atypical Advantage platform for women with disabilities -Internshala<br>
 - ☄️ <samp>Volunteer at Project Unlearn a Platform for Gender Rights -Internshala<br>
-- ☁ <samp>Volunteer at TYCIA  -Internshala<br>
+- ☁ <samp>Volunteer at TYCIA 1000&You for Tribal Education -Internshala<br>
 </div>
 <br><br>
 
