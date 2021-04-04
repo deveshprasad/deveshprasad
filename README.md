@@ -92,7 +92,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshprasad&layout=compact&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
 
 <p align="center"> 
- <h3>Visitor count<h3><br>
+ Visitor count<br>
   <img src="https://profile-counter.glitch.me/deveshprasad/count.svg" />
 </p>
  
