@@ -29,7 +29,6 @@
 - 👷 <samp>Currently pursuing BSc(Hons) Statistics + Computer Science(2019-2022) from Delhi University, India.
 - 🔭 <samp>My main focus is on developing, designing, analysing and visualising.
 - ✍🏻 <samp>I have done 3 Internships till now, two of them were Web Development and one in Wordpress Development.
-- 🥇 <samp>Internships were through a platform Internshala. 
 - 💬 <samp>Ask me about Web Development, Data Analytics and visualization.
 - 🤔 <samp>I’m proficient in tools like R tool, Tableau and Excel.
 - ⚡ <samp>Fun fact: I love Audiobooks and Podcasts.
