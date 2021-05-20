@@ -40,11 +40,8 @@
 <h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <samp>Web Design Intern at Eric Frank (Dec 2020- Jan 2021)(45 days) - Internshala<br>
 - 👨🏾‍💻 <samp>Web Development Intern at Thingroupy (Feb 2021- March2021)(60 days) - Internshala<br>
-- 🕵🏻 <samp>Wordpress Development Intern at StartupHill(Jan 2020 - Present)<br>
-- ☄️ <samp>Volunteer at Safecity a Platform against Harassment -Internshala<br>
-- ☁ <samp>Volunteer at Atypical Advantage platform for women with disabilities -Internshala<br>
-- ☄️ <samp>Volunteer at Project Unlearn a Platform for Gender Rights -Internshala<br>
-- ☁ <samp>Volunteer at TYCIA 1000&You for Tribal Education -Internshala<br>
+- 🕵🏻 <samp>Wordpress Development Intern at StartupHill(Jan 2020 - April 2021)<br>
+- ☄️ <samp>Volunteer at various Non Profits such as UNV_India, Safecity, Project Unlearn, TYCIA Foundation, Bhumi, EarthDay.ORG<br>
 </div>
 <br>
 
