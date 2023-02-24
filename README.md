@@ -15,7 +15,7 @@
 <a href="https://public.tableau.com/profile/devesh5578#!/">
   <img align="left" alt="gmail" width="100px" src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=Tableau&logoColor=white" />
 </a>
-<a href="https://drive.google.com/file/d/1AI6Cvf1WNS6xSFh7a5xqrQAxMsp3LMUz/view?usp=sharing">
+<a href="https://deveshprasad.github.io/DeveshPrasad_CV.pdf">
   <img align="left" alt="gmail" width="70px" src="https://img.shields.io/badge/resume-fff?style=for-the-badge&logo=resume&logoColor=auto" />
 </a>
 
