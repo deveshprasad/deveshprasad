@@ -52,8 +52,11 @@
 <br>
 <div>
   <br>
+  <br>
+<br>
 <img align="right" src="https://user-images.githubusercontent.com/63739986/110834291-62a2c480-82c3-11eb-91bd-076dcbc044c7.gif" width="50%"/>
-
+<br>
+<br>
 </div>
 <div align="center" style="margin-top:20px">
   <br>
