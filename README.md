@@ -72,3 +72,8 @@
 </div>
 
 [DeveshPrasad_CV.pdf](https://github.com/deveshprasad/deveshprasad/files/13802223/DeveshPrasad_CV.pdf)
+
+![1](https://github.com/deveshprasad/deveshprasad/assets/63739986/c667fe27-ae11-4876-826f-593aff4871e8)
+
+![2](https://github.com/deveshprasad/deveshprasad/assets/63739986/a32dc8c2-a794-4a48-8452-425d97f972d7)
+
