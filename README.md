@@ -34,7 +34,7 @@
    </div>
   
   <h3><b><samp>Introduction</samp></b></h3>
-- 👷 <samp>Graduated with MSc Data Science (Mathematics) at the University of Manchester, UK (Sep '22 - Oct '23).
+- 👷 <samp>Graduated with MSc Data Science (Mathematics) with Merit at the University of Manchester, UK (Sep '22 - Oct '23).
 - 🔭 Proficient in Data Science, Machine Learning, Statistics, Python (ML & Analytics), SQL, and AI & Finance.
 - ✍🏻 I'm working as a Data Scientist at Grant Thornton UK (Nov '23 - Present), focusing on ML solutions and automation.
 - 💬 Skills in Software Development, ML & AI, Market Research, and International Market Analysis.
