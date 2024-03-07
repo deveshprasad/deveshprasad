@@ -84,6 +84,4 @@
 CV: [DeveshPrasad_CV.pdf](https://github.com/deveshprasad/deveshprasad/files/13802223/DeveshPrasad_CV.pdf)
 
 
-![1](https://github.com/deveshprasad/deveshprasad/assets/63739986/4ac42a2e-db98-4ed8-a0ef-016016f9e147)
-
-![2](https://github.com/deveshprasad/deveshprasad/assets/63739986/703e5492-5a31-424b-a2a5-b7a4a3e44d5e)
+![DeveshPrasad_CV](https://github.com/deveshprasad/deveshprasad/assets/63739986/ad01e965-0604-4ff2-9e0f-db50f38d764b)
