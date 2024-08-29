@@ -25,35 +25,40 @@
 </a>
 <br>
 
-## <p align="center"><h3 align="center"><samp> A Developer, Data Scientist & Analytics ☁  & A Programmer , Business Consultant & Machine Learning Engineer  </samp></h3></p>
+## <p align="center"><h3 align="center"><samp> A Data Scientist & Developer ☁  & A Programmer , Business Consultant & Machine Learning Engineer  </samp></h3></p>
 <br>
-
+- 👷 <samp>Graduated with MSc Data Science (Mathematics) with Merit(2:1) at the University of Manchester, UK (Sep '22 - Oct '23).
+    
+- ✍🏻 I'm a Data Scientist at Grant Thornton UK (Nov '23 - Present), focusing on ML solutions and automation.
+  
 <div>
+  <br>
+  
   <div align="center" style="margin-top:20px">
-  <img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="55%" />
+  <img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="45%" />
    </div>
   
-  <h3><b><samp>Introduction</samp></b></h3>
-- 👷 <samp>Graduated with MSc Data Science (Mathematics) with Merit(2:1) at the University of Manchester, UK (Sep '22 - Oct '23).
-- 🔭 Proficient in Data Science, Machine Learning, Statistics, Python (ML & Analytics), SQL, and AI & Finance.
-- ✍🏻 I'm working as a Data Scientist at Grant Thornton UK (Nov '23 - Present), focusing on ML solutions and automation.
-- 💬 Skills in Software Development, ML & AI, Market Research, and International Market Analysis.
-- ⚡ Active volunteer in various social causes. </samp>
+  <h3><b><samp>Data Scientist</samp></b></h3>
+  
+💬 Implemented automation for over 5,000+ hrs of manual tasks across internal teams - Audit, resulting in more than £100,000+ savings and reducing time and cost by 99% for the firm. Developed a Python-based RAG algorithm independently incorporating OpenAI-LLM and Azure Document Intelligence to replace manual processes. Collaborated to automate multiple projects across multiple teams saving more than £1,500,000+ & 5000+ hrs. Build Python scripts for Accurate Data Extraction using RAG (Retrieval Augmented Generation) Infrastructure comprising Azure Document Intelligence-ADI, OpenAI LLMs, GPTs, Semantic Chunking – LangChain.  
+</samp>
   
 </div>
 <br>
 <br>
-<br>
 <div align="right">
-  <div align="center" style="margin-top:20px">
-  <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="55%"/>
+  <div align="center" style="margin-top:50px">
+  <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="45%"/>
   </div>
   <br>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <samp>Data Scientist at BE.EV, UK (Feb '23 - Jun '23), focusing on EV charging station utilization.
+- 👷 Data Scientist at BE.EV, UK (Feb '23 - Jun '23), focusing on EV charging station utilization.
+  
 - 👨🏾‍💻 Software Developer Intern at AICROWD, Switzerland (Jul '21 - Aug '22), working on AI projects and web development.
+  
 - 🕵🏻 Market Research Analyst Intern at HackerEarth (Feb '22 - May '22), specializing in international market research and analysis.
-- ☄️ Volunteer at various Non-Profits such as UNV_India, Safecity, Project Unlearn, TYCIA Foundation, Bhumi, EarthDay.ORG.</samp>
+  
+- ☄️ Volunteer at various Non-Profits such as UNV_India, Safecity, Project Unlearn, TYCIA Foundation, Bhumi, EarthDay.ORG.
 </div>
 
 <br>
