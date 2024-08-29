@@ -35,7 +35,7 @@
   <br>
   
   <div align="center" style="margin-top:20px">
-  <img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="45%" />
+  <img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="55%" />
    </div>
   
   <h3><b><samp>Data Scientist</samp></b></h3>
@@ -48,7 +48,7 @@
 <br>
 <div align="right">
   <div align="center" style="margin-top:50px">
-  <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="45%"/>
+  <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="55%"/>
   </div>
   <br>
 <h3><b><samp>Experiences:</samp></b></h3>
