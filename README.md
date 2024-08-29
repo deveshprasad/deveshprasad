@@ -48,7 +48,7 @@
 <br>
 <div align="right">
   <div align="center" style="margin-top:50px">
-  <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="55%"/>
+  <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="50%"/>
   </div>
   <br>
 <h3><b><samp>Experiences:</samp></b></h3>
