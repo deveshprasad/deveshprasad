@@ -29,7 +29,7 @@
 <br>
 - 👷 <samp>Graduated with MSc Data Science (Mathematics) with Merit(2:1) at the University of Manchester, UK (Sep '22 - Oct '23).
     
-- ✍🏻 I'm a Data Scientist at Grant Thornton UK (Nov '23 - Present), focusing on ML solutions and automation.
+- ✍🏻 I'm a Data Analyst at RSM UK (Nov '24 - Present), focusing on ML solutions and automation.
   
 <div>
   <br>
@@ -38,7 +38,7 @@
   <img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="55%" />
    </div>
   
-  <h3><b><samp>Data Scientist</samp></b></h3>
+  <h3><b><samp>Ex - Data Scientist @ Grant Thornton UK</samp></b></h3>
   
 💬 Implemented automation for over 5,000+ hrs of manual tasks across internal teams - Audit, resulting in more than £100,000+ savings and reducing time and cost by 99% for the firm. Developed a Python-based RAG algorithm independently incorporating OpenAI-LLM and Azure Document Intelligence to replace manual processes. Collaborated to automate multiple projects across multiple teams saving more than £1,500,000+ & 5000+ hrs. Build Python scripts for Accurate Data Extraction using RAG (Retrieval Augmented Generation) Infrastructure comprising Azure Document Intelligence-ADI, OpenAI LLMs, GPTs, Semantic Chunking – LangChain.  
 </samp>
@@ -52,7 +52,9 @@
   </div>
   <br>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 Data Scientist at BE.EV, UK (Feb '23 - Jun '23), focusing on EV charging station utilization.
+- 🕵🏻 Data Scientist at Grant Thornton, UK (Nov '23 - Sep '24), focusing on automation & accuracy.
+  
+- 👷 Data Scientist at BE.EV, UK (Jan '23 - Jun '23), focusing on EV charging station utilization.
   
 - 👨🏾‍💻 Software Developer Intern at AICROWD, Switzerland (Jul '21 - Aug '22), working on AI projects and web development.
   
@@ -86,9 +88,12 @@
  
 </div>
 
-CV: [DeveshPrasad_CV.pdf](https://github.com/deveshprasad/deveshprasad/files/13802223/DeveshPrasad_CV.pdf)
+CV: 
 
+![Devesh Prasad CV-1](https://github.com/user-attachments/assets/20621860-3f6c-470b-944d-be3ae14e3769)
 
-![Devesh Prasad CV-1](https://github.com/user-attachments/assets/a6ba34df-e0c6-487f-860f-cfb750015b92)
+COVER LETTER:
+
+![Devesh Prasad Cover Letter-1](https://github.com/user-attachments/assets/fccbd5b3-8f41-42b3-a56f-108014e7971f)
 
 
