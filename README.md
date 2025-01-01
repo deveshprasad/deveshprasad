@@ -92,8 +92,3 @@ CV:
 
 ![Devesh Prasad CV-1](https://github.com/user-attachments/assets/20621860-3f6c-470b-944d-be3ae14e3769)
 
-COVER LETTER:
-
-![Devesh Prasad Cover Letter-1](https://github.com/user-attachments/assets/fccbd5b3-8f41-42b3-a56f-108014e7971f)
-
-
