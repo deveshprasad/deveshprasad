@@ -83,4 +83,5 @@
 
 CV:
 
-![Devesh_Prasad_CV-1](https://github.com/user-attachments/assets/09140dac-4903-4700-8e32-782a56fa56b9)
+![DeveshPrasad_CV-1](https://github.com/user-attachments/assets/72ef953b-7855-4299-9ac6-6503164edffc)
+
