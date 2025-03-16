@@ -88,7 +88,3 @@
  
 </div>
 
-CV: 
-
-![Devesh Prasad CV-1](https://github.com/user-attachments/assets/20621860-3f6c-470b-944d-be3ae14e3769)
-
