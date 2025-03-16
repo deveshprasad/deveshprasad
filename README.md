@@ -21,15 +21,14 @@
 </a>
 <a href="https://twitter.com/deveshprasad01">
   <img width="85px" alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdeveshprasad01">
-
 </a>
 <br>
 
 ## <p align="center"><h3 align="center"><samp> A Data Scientist & Developer ☁  & A Programmer , Business Consultant & Machine Learning Engineer  </samp></h3></p>
 <br>
-- 👷 <samp>Graduated with MSc Data Science (Mathematics) with Merit(2:1) at the University of Manchester, UK (Sep '22 - Oct '23).
+- 🍻 <samp>Graduated with MSc Data Science (First Class (2:1)) at the University of Manchester, UK (Sep '22 - Oct '23).
     
-- ✍🏻 I'm a Data Analyst at RSM UK (Nov '24 - Present), focusing on ML solutions and automation.
+- ✍️ I'm a Data Scientist (KTP Associate) at Troo (Feb '25 - Present), applying Data Science, Machine Learning, and AI to the energy sector.
   
 <div>
   <br>
@@ -40,7 +39,7 @@
   
   <h3><b><samp>Ex - Data Scientist @ Grant Thornton UK</samp></b></h3>
   
-💬 Implemented automation for over 5,000+ hrs of manual tasks across internal teams - Audit, resulting in more than £100,000+ savings and reducing time and cost by 99% for the firm. Developed a Python-based RAG algorithm independently incorporating OpenAI-LLM and Azure Document Intelligence to replace manual processes. Collaborated to automate multiple projects across multiple teams saving more than £1,500,000+ & 5000+ hrs. Build Python scripts for Accurate Data Extraction using RAG (Retrieval Augmented Generation) Infrastructure comprising Azure Document Intelligence-ADI, OpenAI LLMs, GPTs, Semantic Chunking – LangChain.  
+💬 Implemented automation for over 5,000+ hrs of manual tasks across internal teams - Audit, resulting in more than £100,000+ savings and reducing time and cost by 99% for the firm. Developed a Python-based RAG algorithm independently incorporating OpenAI-LLM and Azure Document Intelligence to replace manual processes. Collaborated to automate multiple projects across multiple teams saving more than £1,500,000+ & 5000+ hrs. Built Python scripts for Accurate Data Extraction using RAG (Retrieval Augmented Generation) Infrastructure comprising Azure Document Intelligence-ADI, OpenAI LLMs, GPTs, Semantic Chunking – LangChain.  
 </samp>
   
 </div>
@@ -52,15 +51,13 @@
   </div>
   <br>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 🕵🏻 Data Scientist at Grant Thornton, UK (Nov '23 - Sep '24), focusing on automation & accuracy.
+- 🧐 Data Scientist (KTP Associate) at Troo (Feb '25 - Present), researching AI-driven automation in energy services.
   
-- 👷 Data Scientist at BE.EV, UK (Jan '23 - Jun '23), focusing on EV charging station utilization.
+- 🏋️ Analyst (Consultant) at RSM UK (Nov '24 - Feb '25), delivering data solutions on Azure and Power BI.
   
-- 👨🏾‍💻 Software Developer Intern at AICROWD, Switzerland (Jul '21 - Aug '22), working on AI projects and web development.
+- 👩‍💻 Data Scientist (Consultant) at Grant Thornton UK (Oct '23 - Sep '24), leading automation and AI-driven processes.
   
-- 🕵🏻 Market Research Analyst Intern at HackerEarth (Feb '22 - May '22), specializing in international market research and analysis.
-  
-- ☄️ Volunteer at various Non-Profits such as UNV_India, Safecity, Project Unlearn, TYCIA Foundation, Bhumi, EarthDay.ORG.
+- 💡 Data Scientist at Be.EV, UK (Jan '23 - Jun '23), focusing on EV charging station utilization.
 </div>
 
 <br>
@@ -75,8 +72,6 @@
 </div>
 <div align="center" style="margin-top:20px">
   
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshprasad&layout=compact&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
 
 <p align="center"><br><br><br> 
@@ -84,7 +79,8 @@
   <img src="https://profile-counter.glitch.me/deveshprasad/count.svg" />
 </p>
  
- 
- 
 </div>
 
+CV:
+
+![Devesh_Prasad_CV-1](https://github.com/user-attachments/assets/09140dac-4903-4700-8e32-782a56fa56b9)
