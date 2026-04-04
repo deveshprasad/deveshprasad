@@ -70,18 +70,6 @@
 <br>
 
 </div>
-<div align="center" style="margin-top:20px">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshprasad&layout=compact&show_icons=true&theme=dark)](https://github.com/deveshprasad/github-readme-stats)
-
-<p align="center"><br><br><br> 
- VISITOR COUNT :<br><br>
-  <img src="https://profile-counter.glitch.me/deveshprasad/count.svg" />
-</p>
- 
-</div>
-
-CV:
 
 ![DeveshPrasad_CV-1](https://github.com/user-attachments/assets/72ef953b-7855-4299-9ac6-6503164edffc)
 
