@@ -1,6 +1,5 @@
-<h1 >Hi 👋, I'm Devesh Prasad</h1>
+<h1>Hi 👋, I'm Devesh Prasad</h1>
 <br>
-
 <a href="https://deveshprasad.github.io/DeveshPrasad_CV.pdf">
   <img align="left" alt="resume" width="90px" src="https://img.shields.io/badge/resume-fff?style=for-the-badge&logo=resume&logoColor=auto" />
 </a>
@@ -10,66 +9,135 @@
 <a href="https://github.com/deveshprasad">
   <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="mailto:deveshprasad577@yahoo.com">
-  <img align="left" alt="Yahoo" width="80px" src="https://img.shields.io/badge/Yahoo-720E9E?style=for-the-badge&logo=YahooIn&logoColor=white" />
-</a>
 <a href="mailto:deveshprasad99911@gmail.com">
   <img align="left" alt="gmail" width="90px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <a href="https://public.tableau.com/profile/devesh5578#!/">
-  <img align="left" alt="gmail" width="110px" src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img align="left" alt="Tableau" width="110px" src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=Tableau&logoColor=white" />
 </a>
-<a href="https://twitter.com/deveshprasad01">
-  <img width="85px" alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdeveshprasad01">
+<a href="https://topmate.io/deveshprasad">
+  <img width="110px" alt="Book a Call" src="https://img.shields.io/badge/Book_a_Call-b8862a?style=for-the-badge&logo=googlecalendar&logoColor=white" />
 </a>
+<br><br>
+<br><br>
+
+
+![JUJ_6159_Original](https://github.com/user-attachments/assets/f141d5fa-c0ca-497f-9a07-802d1b70db86)
+<br><br>
+<br><br>
+
+
+
+## <p align="center"><h3 align="center"><samp>Data & AI Lead · Cloud Architect · LLM Engineer · UKRI Global Talent Visa</samp></h3></p>
+
 <br>
 
-## <p align="center"><h3 align="center"><samp> A Data Scientist & Developer ☁  & A Programmer , Business Consultant & Machine Learning Engineer  </samp></h3></p>
-<br>
-- 🍻 <samp>Graduated with MSc Data Science (First Class (2:1)) at the University of Manchester, UK (Sep '22 - Oct '23).
-    
-- ✍️ I'm a Data Scientist (KTP Associate) at Troo (Feb '25 - Present), applying Data Science, Machine Learning, and AI to the energy sector.
-  
 <div>
-  <br>
-  
-  <div align="center" style="margin-top:20px">
-  <img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="55%" />
-   </div>
-  
-  <h3><b><samp>Ex - Data Scientist @ Grant Thornton UK</samp></b></h3>
-  
-💬 Implemented automation for over 5,000+ hrs of manual tasks across internal teams - Audit, resulting in more than £100,000+ savings and reducing time and cost by 99% for the firm. Developed a Python-based RAG algorithm independently incorporating OpenAI-LLM and Azure Document Intelligence to replace manual processes. Collaborated to automate multiple projects across multiple teams saving more than £1,500,000+ & 5000+ hrs. Built Python scripts for Accurate Data Extraction using RAG (Retrieval Augmented Generation) Infrastructure comprising Azure Document Intelligence-ADI, OpenAI LLMs, GPTs, Semantic Chunking – LangChain.  
-</samp>
-  
-</div>
-<br>
-<br>
-<div align="right">
-  <div align="center" style="margin-top:50px">
-  <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="50%"/>
+  <div align="center">
+    <img align="right" src="https://user-images.githubusercontent.com/63739986/110805639-498c1a80-82a7-11eb-8b79-b2e60c503760.gif" width="45%" />
   </div>
-  <br>
-<h3><b><samp>Experiences:</samp></b></h3>
-- 🧐 Data Scientist (KTP Associate) at Troo (Feb '25 - Present), researching AI-driven automation in energy services.
-  
-- 🏋️ Analyst (Consultant) at RSM UK (Nov '24 - Feb '25), delivering data solutions on Azure and Power BI.
-  
-- 👩‍💻 Data Scientist (Consultant) at Grant Thornton UK (Oct '23 - Sep '24), leading automation and AI-driven processes.
-  
-- 💡 Data Scientist at Be.EV, UK (Jan '23 - Jun '23), focusing on EV charging station utilization.
+
+  <h3><b><samp>🚀 Current — KTP Associate, Data & AI Lead @ Troo × University of Glasgow · UKRI Innovate UK</samp></b></h3>
+
+  💬 <samp>Endorsed by UKRI – Innovate UK under the UK Global Talent Visa to establish and lead Troo's Data & AI department from scratch — owning the full technical roadmap, cloud architecture, team management, and AI product delivery. Reduced projected architecture costs by **90%** after a structured multi-cloud evaluation (AWS vs Azure vs GCP).</samp>
+
+  💬 <samp>Architected a serverless AWS data platform — S3, Glue, Athena, SageMaker, QuickSight — integrated end-to-end with LLM APIs (Claude, OpenAI GPT-4, Gemini) and HubSpot CRM via an API-first architecture, targeting elimination of **10,000+ manual hours** across operations.</samp>
+
+  💬 <samp>Managed a cross-functional team across software, data, product, sales, and cloud roles. Initiated strategic technical partnerships with **Noventiq** and **AWS**. Speaker & panellist at **Big Data Conference Europe (Vilnius, 2025)** and **Tech Summit London (2025)** on AI automation for lean teams. Finalist — **Scottish Knowledge Exchange Awards 2026**, Inward Investment Impact.</samp>
 </div>
 
 <br>
+<br>
+
+<div align="left">
+  <div align="center">
+
+    
+![JUJ_4296_Original](https://github.com/user-attachments/assets/b0742953-e32c-4a8e-bbf8-00a9fdc61d53)
+
+  </div>
+
+ 
+</div>
+<div align="right">
+  <div align="center">
+    <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-12eb-8453-52767b463f9d.gif" width="45%"/>
+  </div>
+
+  <h3><b><samp>Ex — Data Analyst (Consultant) @ RSM UK</samp></b></h3>
+
+  💬 <samp>Engineered data pipelines in Azure Data Factory (ADF) across Synapse Analytics, SQL Database, Blob Storage, and ADLS Gen2; authored complex T-SQL queries for extraction, transformation, and validation — materially reducing data discrepancy rates across audit, tax, and consulting engagements. Automated ETL workflows via Azure DevOps CI/CD pipelines aligned with the Microsoft Azure Well-Architected Framework.</samp>
+</div>
+
+<br>
+<br>
+
 <div>
+  <div align="center">
+    <img align="right" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-11eb-8453-52767b463f9d.gif" width="45%"/>
+  </div>
 
-<br>
-<br>
-<br>
-<img align="right" src="https://user-images.githubusercontent.com/63739986/110834291-62a2c480-82c3-11eb-91bd-076dcbc044c7.gif" width="50%"/>
-<br>
+  <h3><b><samp>Ex — Data Scientist (Consultant) @ Grant Thornton UK LLP</samp></b></h3>
 
+  💬 <samp>Independently built a Python RAG system — GPT-4, Azure Document Intelligence (ADI), LangChain, Databricks — automating **5,000+ manual processing hours** across Audit and delivering firm savings of **£500k–£2.5M+** with a 99% time reduction. Extended RAG pipelines firm-wide; built dashboards in Power BI, Tableau, and Alteryx for senior stakeholders — cumulative savings exceeding **£2.5M** and **5,000+ hours** recovered.</samp>
 </div>
+
+<br>
+<br>
+
+<div align="right">
+  <div align="center">
+    <img align="left" src="https://user-images.githubusercontent.com/63739986/110834291-62a2c480-82c3-11eb-91bd-076dcbc044c7.gif" width="45%"/>
+  </div>
+
+  <h3><b><samp>Experiences</samp></b></h3>
+
+  - 🚀 <samp>**KTP Associate — Data & AI Lead** @ Troo × University of Glasgow · UKRI Innovate UK (Feb '25 – Present) — building AI infrastructure from scratch in the UK energy sector under the Global Talent Visa.</samp>
+  - 🏋️ <samp>**Data Analyst (Consultant)** @ RSM UK (Nov '24 – Feb '25) — Azure-native data pipelines (ADF, Synapse, DevOps CI/CD) for Big 4 advisory engagements.</samp>
+  - 👩‍💻 <samp>**Data Scientist (Consultant)** @ Grant Thornton UK LLP (Oct '23 – Sep '24) — RAG automation saving £2.5M+ and 5,000+ hrs across Audit workflows.</samp>
+  - 💡 <samp>**Data Scientist — MSc Industrial Placement** @ Be.EV (Jan '23 – Jun '23) — GIS analysis and predictive modelling for EV charging infrastructure siting; reported directly to CTO/CPO.</samp>
+</div>
+
+<br>
+<br>
+
+<div>
+  <h3><b><samp>🌍 UK Visa Guidance — Global Talent & Tier 2</samp></b></h3>
+
+  💬 <samp>As a UKRI Innovate UK–endorsed **Global Talent Visa** recipient at 23 — among fewer than **0.003%** of UK tech immigrants — I advise international students and professionals on the UK's most competitive visa routes: Global Talent (UKRI endorsement), Skilled Worker (Tier 2) sponsorship, and KTP Associate pathways (UKRI Route 3 fast-track). Feel free to reach out or [book a call](https://topmate.io/deveshprasad).</samp>
+</div>
+
+<br>
+
+---
+
+<h3><b><samp>🛠 Tech Stack</samp></b></h3>
+
+**Cloud & Data Engineering:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+**AI & LLMs:**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-b8862a?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Programming & Analytics:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+
+---
+![JUJ_6144_Original](https://github.com/user-attachments/assets/2be06ba1-2a53-4add-9d05-f9dc8ceec6a9)
+
 
 ![DeveshPrasad_CV-1](https://github.com/user-attachments/assets/72ef953b-7855-4299-9ac6-6503164edffc)
-
