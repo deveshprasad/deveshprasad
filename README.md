@@ -4,7 +4,7 @@
 
 <h1>Hi 👋, I'm Devesh Prasad</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=b8862a&center=true&vCenter=true&width=750&lines=Data+%26+AI+Lead+%7C+Cloud+Architect;LLM+Engineer+%7C+UKRI+Global+Talent+Visa;Building+AI+from+scratch+%40+Troo+%C3%97+UoG;Speaker+%7C+Big+Data+EU+2025+%7C+Tech+Summit+London+2025" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=b8862a&center=true&vCenter=true&width=750&lines=Data+%26+AI+Lead+%7C+Cloud+Architect;LLM+Engineer+%7C+UKRI+Global+Talent+Visa;Building+AI+from+scratch+%40+Troo+%C3%97+UoG;Speaker+%7C+Big+Data+EU+2025+%7C+Tech+Summit+London+2025;Navigated+4+UK+Visas+Under+25+%F0%9F%87%AC%F0%9F%87%A7;Helping+Internationals+Break+Into+UK+Tech" alt="Typing SVG" />
 
 </div>
 
@@ -44,10 +44,10 @@
 
 <div align="center">
 
-| 🕐 Hours Automated | 💰 Savings Enabled | ☁️ Cloud Cost Cut | 🌍 Visa Tier |
+| 🕐 Hours Targeted | 💰 Savings Enabled | ☁️ Cloud Cost Cut | 🌍 Visa Status |
 |:---:|:---:|:---:|:---:|
-| **10,000+** | **£2.5M+** | **90% via AWS** | **UKRI Global Talent** |
-| *Across Troo & Grant Thornton* | *Audit & ops workflows* | *vs multi-cloud eval* | *Top 0.003% UK tech immigrants* |
+| **10,000+** | **£2.5M+** | **~90% via AWS** | **UKRI Global Talent** |
+| *Automation programme at Troo & GT* | *Audit & ops workflows* | *vs multi-cloud eval* | *Top 0.003% UK tech immigrants* |
 
 </div>
 
@@ -66,7 +66,7 @@
 
   <h3><b><samp>🚀 Current — KTP Associate, Data & AI Lead @ Troo × University of Glasgow · UKRI Innovate UK</samp></b></h3>
 
-  💬 <samp>Endorsed by UKRI – Innovate UK under the UK Global Talent Visa to establish and lead Troo's Data & AI department from scratch — owning the full technical roadmap, cloud architecture, team management, and AI product delivery. Reduced projected architecture costs by **90%** after a structured multi-cloud evaluation (AWS vs Azure vs GCP).</samp>
+  💬 <samp>Endorsed by UKRI – Innovate UK under the UK Global Talent Visa to establish and lead Troo's Data & AI department from scratch — owning the full technical roadmap, cloud architecture, team management, and AI product delivery. Conducted structured multi-cloud evaluation (AWS vs Azure vs GCP) pointing toward an estimated **~90%** reduction in projected architecture costs.</samp>
 
   💬 <samp>Architected a serverless AWS data platform — S3, Glue, Athena, SageMaker, QuickSight — integrated end-to-end with LLM APIs (Claude, OpenAI GPT-4, Gemini) and HubSpot CRM via an API-first architecture, targeting elimination of **10,000+ manual hours** across operations.</samp>
 
@@ -104,7 +104,7 @@
 
   <h3><b><samp>Ex — Data Scientist (Consultant) @ Grant Thornton UK LLP</samp></b></h3>
 
-  💬 <samp>Independently built a Python RAG system — GPT-4, Azure Document Intelligence (ADI), LangChain, Databricks — automating **5,000+ manual processing hours** across Audit and delivering firm savings of **£500k–£2.5M+** with a 99% time reduction. Extended RAG pipelines firm-wide; built dashboards in Power BI, Tableau, and Alteryx for senior stakeholders — cumulative savings exceeding **£2.5M** and **5,000+ hours** recovered.</samp>
+  💬 <samp>Independently built a Python RAG system — GPT-4, Azure Document Intelligence (ADI), LangChain, Databricks — targeting automation of **5,000+ manual processing hours** across Audit and projected firm savings of **£500k–£2.5M+** with a 99% time reduction. Extended RAG pipelines firm-wide; built dashboards in Power BI, Tableau, and Alteryx for senior stakeholders.</samp>
 </div>
 
 <br>
@@ -241,25 +241,87 @@
 
 ---
 
-<div>
-  <h3><b><samp>🌍 UK Visa Guidance — Global Talent & Tier 2</samp></b></h3>
-
-  💬 <samp>As a UKRI Innovate UK–endorsed **Global Talent Visa** recipient at 23 — among fewer than **0.003%** of UK tech immigrants — I advise international students and professionals on the UK's most competitive visa routes: Global Talent (UKRI endorsement), Skilled Worker (Tier 2) sponsorship, and KTP Associate pathways (UKRI Route 3 fast-track). Feel free to reach out or [book a call](https://topmate.io/deveshprasad).</samp>
-</div>
+## 🇬🇧 UK Visa & Career Guidance — From Student to Global Talent
 
 <div align="center">
 
-<br>
-
 ![GlobalTalent](https://img.shields.io/badge/Global_Talent_Visa-UKRI_Endorsed-b8862a?style=for-the-badge&logo=gov.uk&logoColor=white)
 &nbsp;
-![KTP](https://img.shields.io/badge/KTP_Route_3-Fast_Track-0033a0?style=for-the-badge&logoColor=white)
+![Tier2](https://img.shields.io/badge/Tier_2-Skilled_Worker_Sponsor-0033a0?style=for-the-badge&logoColor=white)
+&nbsp;
+![KTP](https://img.shields.io/badge/KTP_Route_3-Fast_Track-2e7d32?style=for-the-badge&logoColor=white)
 &nbsp;
 <a href="https://topmate.io/deveshprasad">
-  <img src="https://img.shields.io/badge/Book_a_Call-Visa_Guidance-b8862a?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+  <img src="https://img.shields.io/badge/📅_Book_a_Session-topmate.io/deveshprasad-b8862a?style=for-the-badge" />
 </a>
 
 </div>
+
+<br>
+
+<div>
+
+<h3><b><samp>🌍 The rarest thing in UK visa advice: someone who's actually done it all.</samp></b></h3>
+
+💬 <samp>In the last **3 years** in the UK, I've personally held **four visa types** — 🎓 Student → 🎓 Graduate → 💼 Tier 2 Skilled Worker → 🌟 Global Talent — all before the age of **25**. I didn't read about this system. I lived it, while working at Big 4 consulting firms and building AI infrastructure from scratch.</samp>
+
+💬 <samp>I'm endorsed by **UKRI Innovate UK** for the Global Talent Visa as exceptional talent in Data Science & AI — placing me among fewer than **0.003%** of UK tech immigrants. Before this role, I worked as a consultant at **Grant Thornton UK** and **RSM UK**, navigating visa transitions in real time while delivering senior-level AI projects.</samp>
+
+</div>
+
+<br>
+
+### 🤝 Who I help
+
+<div align="center">
+
+| 🎯 Goal | 💡 What I can help with |
+|:---|:---|
+| 🌟 **Global Talent Visa** | UKRI endorsement strategy, evidence building, profile positioning, application structure |
+| 💼 **Tier 2 / Skilled Worker** | Finding licensed sponsors, SOC code selection, salary thresholds, what employers look for |
+| 🔄 **Visa Transition Planning** | Student → Graduate → Tier 2 → Global Talent — mapping the right route for your background |
+| 📊 **Breaking Into UK Data & AI** | Job search strategy, CV for UK market, approaching employers with no prior UK experience |
+| 🧭 **Career Direction** | Moving from consulting, finance, or engineering into a senior Data/AI role in the UK |
+
+</div>
+
+<br>
+
+### 💬 Why talk to me?
+
+<div>
+
+💬 <samp>I'm **not** an immigration lawyer. I'm someone who has been through every major UK visa route, worked inside Big 4 professional services firms, and reached a senior technology leadership role before 25 — all as an international professional. The anxiety of visa renewals, the job search with no UK network, the transition from student to professional — I've navigated all of it recently and firsthand.</samp>
+
+💬 <samp>When you book a session with me, you get **honest, practical, lived experience** — not generic advice pulled from a government webpage. I'll tell you what actually matters, what's a waste of time, and how to position yourself for the outcome you want.</samp>
+
+</div>
+
+<br>
+
+### 📅 Services available on Topmate
+
+<div align="center">
+
+| 💼 Session | ⏱ Duration | 📌 Best for |
+|:---|:---:|:---|
+| 🌟 **UK Global Talent Visa Strategy** | 30 min | Understanding the UKRI endorsement route, evidence strategy, and how to position your profile |
+| 💼 **Tier 2 Job Search & Sponsorship Roadmap** | 30 min | Finding sponsored roles, identifying employers, approaching applications in Data/AI/tech |
+| 📊 **Breaking Into UK Data & AI — Career Clarity** | 45 min | Building a UK job search strategy with no prior UK experience |
+| 🔄 **Visa Transition Planning** | 30 min | Mapping your route from current visa to long-term UK career pathway |
+| 📄 **CV & LinkedIn Review for UK Market** | Async | Positioning your profile for UK Data/AI roles and visa applications |
+
+<br>
+
+<a href="https://topmate.io/deveshprasad">
+  <img src="https://img.shields.io/badge/📅_Book_a_Session_Now-topmate.io/deveshprasad-b8862a?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+> 💡 *I share lived experience and practical insight — not legal advice. I am not a regulated immigration adviser. For formal legal guidance, consult a qualified OISC-registered adviser. That said, I'm happy to share what I know from going through this system firsthand — recently, under pressure, and successfully.*
 
 <br>
 
@@ -272,6 +334,3 @@
 ![DeveshPrasad_CV_page-0001](https://github.com/user-attachments/assets/fbef71d7-13bb-4d6c-ac22-5481a0888c7e)
 
 </div>
-
-
-
