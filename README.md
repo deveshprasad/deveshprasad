@@ -249,8 +249,7 @@
 &nbsp;
 ![Tier2](https://img.shields.io/badge/Tier_2-Skilled_Worker_Sponsor-0033a0?style=for-the-badge&logoColor=white)
 &nbsp;
-![KTP](https://img.shields.io/badge/KTP_Route_3-Fast_Track-2e7d32?style=for-the-badge&logoColor=white)
-&nbsp;
+
 <a href="https://topmate.io/deveshprasad">
   <img src="https://img.shields.io/badge/📅_Book_a_Session-topmate.io/deveshprasad-b8862a?style=for-the-badge" />
 </a>
