@@ -1,5 +1,16 @@
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=deveshprasad&color=b8862a&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
 <h1>Hi 👋, I'm Devesh Prasad</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=b8862a&center=true&vCenter=true&width=750&lines=Data+%26+AI+Lead+%7C+Cloud+Architect;LLM+Engineer+%7C+UKRI+Global+Talent+Visa;Building+AI+from+scratch+%40+Troo+%C3%97+UoG;Speaker+%7C+Big+Data+EU+2025+%7C+Tech+Summit+London+2025" alt="Typing SVG" />
+
+</div>
+
 <br>
+
+<div align="center">
 <a href="https://deveshprasad.github.io/DeveshPrasad_CV.pdf">
   <img align="left" alt="resume" width="90px" src="https://img.shields.io/badge/resume-fff?style=for-the-badge&logo=resume&logoColor=auto" />
 </a>
@@ -18,15 +29,31 @@
 <a href="https://topmate.io/deveshprasad">
   <img width="110px" alt="Book a Call" src="https://img.shields.io/badge/Book_a_Call-b8862a?style=for-the-badge&logo=googlecalendar&logoColor=white" />
 </a>
-<br><br>
-<br><br>
+</div>
 
+<br><br>
+<br><br>
 
 ![JUJ_6159_Original](https://github.com/user-attachments/assets/f141d5fa-c0ca-497f-9a07-802d1b70db86)
-<br><br>
+
 <br><br>
 
+---
 
+## <div align="center">🎯 Impact at a Glance</div>
+
+<div align="center">
+
+| 🕐 Hours Automated | 💰 Savings Enabled | ☁️ Cloud Cost Cut | 🌍 Visa Tier |
+|:---:|:---:|:---:|:---:|
+| **10,000+** | **£2.5M+** | **90% via AWS** | **UKRI Global Talent** |
+| *Across Troo & Grant Thornton* | *Audit & ops workflows* | *vs multi-cloud eval* | *Top 0.003% UK tech immigrants* |
+
+</div>
+
+<br>
+
+---
 
 ## <p align="center"><h3 align="center"><samp>Data & AI Lead · Cloud Architect · LLM Engineer · UKRI Global Talent Visa</samp></h3></p>
 
@@ -52,13 +79,11 @@
 <div align="left">
   <div align="center">
 
-    
 ![JUJ_4296_Original](https://github.com/user-attachments/assets/b0742953-e32c-4a8e-bbf8-00a9fdc61d53)
 
   </div>
-
- 
 </div>
+
 <div align="right">
   <div align="center">
     <img align="left" src="https://user-images.githubusercontent.com/63739986/110807160-c2d83d00-82a8-12eb-8453-52767b463f9d.gif" width="45%"/>
@@ -87,19 +112,134 @@
 
 <div align="right">
   <div align="center">
-    <img align="left" src="https://user-images.githubusercontent.com/63739986/110834291-62a2c480-82c3-11eb-91bd-076dcbc044c7.gif" width="45%"/>
+    <img align="left" src="https://user-images.githubusercontent.com/63739986/110834291-62a2c480-82c3-62eb-91bd-076dcbc044c7.gif" width="45%"/>
   </div>
 
   <h3><b><samp>Experiences</samp></b></h3>
 
-  - 🚀 <samp>**KTP Associate — Data & AI Lead** @ Troo × University of Glasgow · UKRI Innovate UK (Feb '25 – Present) — building AI infrastructure from scratch in the UK energy sector under the Global Talent Visa.</samp>
-  - 🏋️ <samp>**Data Analyst (Consultant)** @ RSM UK (Nov '24 – Feb '25) — Azure-native data pipelines (ADF, Synapse, DevOps CI/CD) for Big 4 advisory engagements.</samp>
-  - 👩‍💻 <samp>**Data Scientist (Consultant)** @ Grant Thornton UK LLP (Oct '23 – Sep '24) — RAG automation saving £2.5M+ and 5,000+ hrs across Audit workflows.</samp>
-  - 💡 <samp>**Data Scientist — MSc Industrial Placement** @ Be.EV (Jan '23 – Jun '23) — GIS analysis and predictive modelling for EV charging infrastructure siting; reported directly to CTO/CPO.</samp>
+  - 🚀 <samp>**KTP Associate — Data & AI Lead** @ Troo × University of Glasgow · UKRI Innovate UK (Feb '25 – Present)</samp>
+  - 🏋️ <samp>**Data Analyst (Consultant)** @ RSM UK (Nov '24 – Feb '25)</samp>
+  - 👩‍💻 <samp>**Data Scientist (Consultant)** @ Grant Thornton UK LLP (Oct '23 – Sep '24)</samp>
+  - 💡 <samp>**Data Scientist — MSc Industrial Placement** @ Be.EV (Jan '23 – Jun '23)</samp>
 </div>
 
 <br>
 <br>
+
+---
+
+## 🎓 Education & Recognition
+
+<div align="center">
+
+![Manchester](https://img.shields.io/badge/MSc_Data_Science-University_of_Manchester-660099?style=for-the-badge&logoColor=white)
+![FirstClass](https://img.shields.io/badge/First_Class_(2:1)-Russell_Group_Scholar_£13.5k+-b8862a?style=for-the-badge)
+
+<br><br>
+
+![Delhi](https://img.shields.io/badge/BSc_Statistics_(Hons)-University_of_Delhi-003087?style=for-the-badge&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA_8.98%2F10-Top_of_Class-brightgreen?style=for-the-badge)
+
+<br><br>
+
+![UKRI](https://img.shields.io/badge/UKRI_Innovate_UK-Global_Talent_Visa_Endorsed-b8862a?style=for-the-badge&logo=gov.uk&logoColor=white)
+
+</div>
+
+<br>
+
+---
+
+## 🎤 Speaking & Awards
+
+<div align="center">
+
+![BigData](https://img.shields.io/badge/Big_Data_Conference_Europe-Vilnius_2025-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+&nbsp;
+![TechSummit](https://img.shields.io/badge/Tech_Summit_London-2025-0078D4?style=for-the-badge&logo=microsoftteams&logoColor=white)
+
+<br><br>
+
+![SKE](https://img.shields.io/badge/Scottish_Knowledge_Exchange_Awards-2026_Finalist-FFD700?style=for-the-badge&logoColor=black)
+&nbsp;
+![Topic](https://img.shields.io/badge/Topic-AI_Automation_for_Lean_Teams-181717?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<br>
+
+---
+
+## 🛠 Tech Stack
+
+### ☁️ Cloud & Data Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github&theme=dark" />
+
+<br><br>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![ADF](https://img.shields.io/badge/Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Synapse](https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+</div>
+
+<br>
+
+### 🤖 AI & LLMs
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+
+<br><br>
+
+![Claude](https://img.shields.io/badge/Claude-b8862a?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Gen-6B46C1?style=flat-square)
+![Azure Doc Intelligence](https://img.shields.io/badge/Azure_Doc_Intelligence-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+</div>
+
+<br>
+
+### 💻 Programming & Analytics
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,r,vscode,jupyter,postgres,mysql&theme=dark" />
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat-square&logo=alteryx&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot_CRM-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+
+</div>
+
+<br>
+
+---
 
 <div>
   <h3><b><samp>🌍 UK Visa Guidance — Global Talent & Tier 2</samp></b></h3>
@@ -107,37 +247,31 @@
   💬 <samp>As a UKRI Innovate UK–endorsed **Global Talent Visa** recipient at 23 — among fewer than **0.003%** of UK tech immigrants — I advise international students and professionals on the UK's most competitive visa routes: Global Talent (UKRI endorsement), Skilled Worker (Tier 2) sponsorship, and KTP Associate pathways (UKRI Route 3 fast-track). Feel free to reach out or [book a call](https://topmate.io/deveshprasad).</samp>
 </div>
 
+<div align="center">
+
+<br>
+
+![GlobalTalent](https://img.shields.io/badge/Global_Talent_Visa-UKRI_Endorsed-b8862a?style=for-the-badge&logo=gov.uk&logoColor=white)
+&nbsp;
+![KTP](https://img.shields.io/badge/KTP_Route_3-Fast_Track-0033a0?style=for-the-badge&logoColor=white)
+&nbsp;
+<a href="https://topmate.io/deveshprasad">
+  <img src="https://img.shields.io/badge/Book_a_Call-Visa_Guidance-b8862a?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+</a>
+
+</div>
+
 <br>
 
 ---
 
-<h3><b><samp>🛠 Tech Stack</samp></b></h3>
+<div align="center">
 
-**Cloud & Data Engineering:**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-
-**AI & LLMs:**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-b8862a?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Programming & Analytics:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-
----
 ![JUJ_6144_Original](https://github.com/user-attachments/assets/2be06ba1-2a53-4add-9d05-f9dc8ceec6a9)
 
+![DeveshPrasad_CV_page-0001](https://github.com/user-attachments/assets/fbef71d7-13bb-4d6c-ac22-5481a0888c7e)
 
-![DeveshPrasad_CV-1](https://github.com/user-attachments/assets/72ef953b-7855-4299-9ac6-6503164edffc)
+</div>
+
+
+
