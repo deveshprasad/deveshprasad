@@ -104,7 +104,7 @@
 
   <h3><b><samp>Ex — Data Scientist (Consultant) @ Grant Thornton UK LLP</samp></b></h3>
 
-  💬 <samp>Independently built a Python RAG system — GPT-4, Azure Document Intelligence (ADI), LangChain, Databricks — targeting automation of **5,000+ manual processing hours** across Audit and projected firm savings of **£500k–£2.5M+** with a 99% time reduction. Extended RAG pipelines firm-wide; built dashboards in Power BI, Tableau, and Alteryx for senior stakeholders.</samp>
+  💬 <samp>Independently built a Python RAG system — GPTs, Azure Document Intelligence (ADI), LangChain, Databricks — targeting automation of **5,000+ manual processing hours** across Audit and projected firm savings of **£500k–£2.5M+** with a 99% time reduction. Extended RAG pipelines firm-wide; built dashboards in Power BI, Tableau, and Alteryx for senior stakeholders.</samp>
 </div>
 
 <br>
