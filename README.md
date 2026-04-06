@@ -68,7 +68,7 @@
 
   💬 <samp>Endorsed by UKRI – Innovate UK under the UK Global Talent Visa to establish and lead Troo's Data & AI department from scratch — owning the full technical roadmap, cloud architecture, team management, and AI product delivery. Conducted structured multi-cloud evaluation (AWS vs Azure vs GCP) pointing toward an estimated **~90%** reduction in projected architecture costs.</samp>
 
-  💬 <samp>Architected a serverless AWS data platform — S3, Glue, Athena, SageMaker, QuickSight — integrated end-to-end with LLM APIs (Claude, OpenAI GPT-4, Gemini) and HubSpot CRM via an API-first architecture, targeting elimination of **10,000+ manual hours** across operations.</samp>
+  💬 <samp>Architected a serverless AWS data platform — S3, Glue, Athena, SageMaker, QuickSight — integrated end-to-end with LLM APIs (Claude, OpenAI GPTs, Gemini) and HubSpot CRM via an API-first architecture, targeting elimination of **10,000+ manual hours** across operations.</samp>
 
   💬 <samp>Managed a cross-functional team across software, data, product, sales, and cloud roles. Initiated strategic technical partnerships with **Noventiq** and **AWS**. Speaker & panellist at **Big Data Conference Europe (Vilnius, 2025)** and **Tech Summit London (2025)** on AI automation for lean teams. Finalist — **Scottish Knowledge Exchange Awards 2026**, Inward Investment Impact.</samp>
 </div>
